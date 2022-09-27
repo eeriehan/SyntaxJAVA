@@ -1,0 +1,23 @@
+Logical Operators:
+	
+-	Help us test more than one conditions. In java we have 	:
+		
+							&& 		as the 		'And'
+							||		as the 		'Or'
+							!		as the		'Not'
+
+-	Why we should learn Logical Operators?
+		-Logical operators help us reduce the number of if-conditions that we write in certain cases.
+	
+-	What is the Syntax?
+	ex1)	if (condition1 && condition2) {
+				system.out.println("hello");
+			}
+		
+		can be written as
+		
+	ex2)	if (condition1) {
+				if (condition2) {
+				system.out.println("hello");
+				}
+			}

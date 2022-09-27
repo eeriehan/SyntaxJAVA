@@ -1,0 +1,89 @@
+String
+
+-StringBuilder
+    A mutable sequence of characters. This class provides an API compatible with
+    {@code StringBuffer}, but with no guarantee of synchronization.
+    This class is designed for use as a drop-in replacement for {@code StringBuffer} in places
+    where the string buffer was being used by a single thread(as is generally the case). Where
+    possible, it is recommended that this class be used in preference to {@code StringBuffer} as
+    it will be faster under most implementations.
+
+-StringBuffer
+    A Thread-safe; mutable sequence of characters.
+    A string buffer is like a {@link String}, but can be modified. At any point in time it contains
+    some particular sequence of characters, but the length and content of the sequence can be changed
+    through certain method calls.
+
+
+-What is an Immutable Object? // 지정후 바꿀수 없는 것.
+    An immutable object is an object whose internal state remains constant after it has been
+    entirely created. This means that public API of an immutable object guarantees us that it
+    will behave in the same way during its whole lifetime.
+
+-Benefits?
+
+    Since the internal state of an immutable object remains constant in time, we can share it
+    safely among multiple threads.
+    We can also use it freely, and none of the objects referencing it will notice any difference,
+    we can say that Immutable objects are side-effects free.
+
+    Immutable objects don't change their internal state in time. They are thread-safe and
+    side-effects free. Because of those properties, immutable objects are also especially
+    useful when dealing with multi-thread environments.
+
+**  In java. Variables are mutable by default, meaning we can change that value they hold.
+**  By using the FINAL key word when declaring a variable, the Java compiler won't let us
+    change the value of that variable. Instead, it will report a compile-time error:
+
+
+-String VS. StringBuilder VS. StringBuffer in Java
+
+-String          -String are IMMUTABLE, a New string is created in the memory every time we
+                change the value of a String
+
+-StringBuilder   -StringBuilders are MUTABLE, any change induced will modify the existing
+                sequence of characters created in the memory.
+
+-Post Java7, Strings were "better" at extracting substrings. After Java7 was released, the
+substring operation in the String also began to copy the substring required to a new String.
+
+-String Builders are better at appending
+    String Case:
+    string = "Geek" | length = 4 =M
+    stringToAppend = "ific" | length = 4 = N
+    new String = G + e + e + k + i + f + i + c | 0(M + N)
+
+    StringBuilder Case:
+    stringBuilder = "Geek" | length = 4
+    stringToAppend = "ific" | length = 4 = N
+    stringBuilder = "Geek" + i + f + i + c | 0(N)
+
+-Why NOT use StringBuilder all the time?
+    :sometimes it is the Immutability we need regardless of the performance drawback
+
+-Reversing a String
+    IF: Loop over the characters of a given string in reverse order while storing these
+        characters in a new variable
+
+ex. using String
+    public String reverse(String text) {
+        String reversedText = "";
+        for (int n = text.length() - 1; n >= 0; n--) | 0(n)
+            reversedText = reversedText + text.charAt(n); | 0(n)
+        return reversedTest;
+    }
+ex. using StringBuilder
+    StringBuilder reversedText = new StringBuilder();
+    Stream.iterate(text.length() - 1, n -> n - 1) | 0(n)
+            .limit(text.length())
+            .forEach(n -> reversedText.append(text.charAt(n))); | 0(1)
+    return reversedText.toString();
+    }
+
+
+
+
+
+
+
+

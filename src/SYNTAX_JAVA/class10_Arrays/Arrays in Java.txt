@@ -1,0 +1,88 @@
+Arrays in Java
+
+-variable:							 int a;		//can have only 1 value
+									  10
+									  
+
+-array:						    int[] b		// size:4
+				10			20			30			40		//element:stored data
+				b[0]		b[1]		b[2]		b[4]	//Index<-always start from 0
+					
+					
+	-	Array is container object that holds multiple values of the same type.
+	
+
+-	how to create an use an array?
+	
+	int[] nums = new int[4];
+	
+	nums[0] = 10;
+	nums[1] = 100;
+	
+	System.out.println(nums[1]);	//	output: 0
+	System.out.println(nums[4]);	//	output: RE: ArrayIndexOutOfBoundException:4
+	
+	num.length	->	tells how many elements 
+	
+-	how to get all elements from an array?
+
+	for (int i = 0; i < num.length; i++) {
+	
+		System.out.println(nums[i]);
+	
+	}
+	
+	---------------------------------------------------------------------------------------
+[Enhanced for loop]
+	
+-	Advanced for loop works only when we work with array or collection. it loop only 1 direction
+
+	for (int num: nums){
+	
+		System.out.println(num);
+	
+	}
+	
+Types of arrays - 2d, 3d ....
+
+2D array - array of arrays
+
+-						  	int[] b		// size:4
+				10			20			30			40		//element:stored data
+				b[0]		b[1]		b[2]		b[4]	//Index<-always start from 0
+				
+				
+-						int[][]bigArray = new int[3][4]
+								
+				col[0]		col[1]		col[2]		col[3]
+				
+	row[]1		10			20			30			40
+	row[]2		1			2			3			4
+	row[]3		100			200			300			400
+	
+
+-						int[][] arr = {
+											{10, 20, 30, 40},	
+											{1, 2, 3, 4},
+											{100, 200, 300, 400},
+											
+																	}
+						
+						
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

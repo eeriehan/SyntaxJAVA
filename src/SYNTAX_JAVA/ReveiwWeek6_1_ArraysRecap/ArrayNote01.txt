@@ -1,0 +1,10 @@
+Arrays:	Arrays are consecutive memory location which store same type of data
+
+Why we need arrays?
+	Arrays help us store large amounts of data in a single variable.
+	
+Syntax ( how to use )
+
+	DataType [] name of array = new data type[size]
+	DataType [] name of array = new data type[]{store the element
+	

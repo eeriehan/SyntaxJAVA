@@ -1,0 +1,39 @@
+to see the project status
+reporting purpose
+user stories, sprint backlog, test cases, burn down charts tasks, product backlog etc.
+
+Class 5 - 
+
+[Cucumber] - 
+
+Acceptance criteria]
+
+Given	-	Pre-condition
+When	-	to perform action
+Then	-	Expected results
+And		-	supporting tag
+
+[Jira Software] -
+
+Acceptance criteria]
+
+DOR		-	Definition of (ready) - When scrum team gets the complete details about the user story and estimated it
+			properly for taking up for the development
+
+DOD		-	Definition of (done) - When development is done, testing is done, 
+			status of all test cases for this user story is green and code is committed, then DOD is completed.
+			
+			
+[Agile ceremonies]
+
+Product backlog 	- 	it has all the product user story items
+Sprint backlog 		-	we take only those items we will work on during sprint
+
+!!!! You can not delete any item from jira - because you need long history to track the project
+	
+	-type of meetings-
+Sprint planning	- (1~2hours) // Scrum stand up -> 15min
+Sprint grooming - (1~2hours)
+Sprint demo		- (1hour)
+				  3~8hour	// already loose time during  
+

@@ -1,0 +1,102 @@
+Type casting:
+
+	Type casting is converting the type of data from one data type to another on.
+	We have two types of type casting. 
+	
+		1). Explicit/Narrowing/Manual
+		2). Implicit/Widening/Automatic
+		
+		*	When we go from a bigger data type to a smaller one it is called Explicit/Narrowing/Manual
+			and
+			when we go from a smaller data type to a larger data type we call it Implicit/Widening/Automatic.
+	
+		**	byte(8) -> short(16) -> char(16) -> int(32) -> long(64) -> float(32) -> double(64)
+			
+		***	|---------->				 Widening And Narrowing 				<------------|
+		
+	Why we need type casting?
+		
+		When we are working in teams we might need to convert data from different data types.
+		When we are working with math sometimes we need to get rid of decimal part 
+		as we are only interested in the non-decimal part of digit.
+	
+	What is the Syntax?
+	
+		Explicit/narrowing/Manual
+		
+			int box = 1000;							short biggerBox1 = 129;
+			byte box2 = (byte) box;					byte smallerBox2 = (byte) biggerBox1;
+														System.out.println(smallerBox);
+			
+		Implicit/widening/Automatic
+		
+			short smallerBox3=45;
+        	long largerBox3 = smallerBox3;
+       			System.out.println(largerBox3);
+     ======================================================================================================
+If statements:
+     	
+     	if else conditions allow us to write programs that can take decision
+     	based on some condition and provided data.
+   		
+   		if 				condition
+   		if else   		condition
+   		if else if		condition
+   		nested if else	condition
+			
+	Why we should learn about if else condition?
+	
+		When we are solving real life problems, like testing a app our programs needs to make a lot of decisions.
+	
+	What is the SYNTAX_JAVA of if else conditions?
+		
+		if 		condition
+		
+			boolean rich = true;
+				if(rich)
+				{
+				System.out.println("Lets buy a house");
+				}
+		
+		
+===========================================================================
+Han Jo	Cucumber HW
+		
+C01	Verify search function on main page
+	-	Given 	user is able to access http://www.amazon.com
+	-	When 	user click on search field
+	-	And 	user is able to see drop-box with recommendations
+	-	And 	dim browser by ??%, except search field
+	-	And 	user type on the search field
+	-	And 	user mouse right click on magnifying glass icon
+	-	Then 	browser show user result page
+
+C02 Narrowing search result to only 'Prime'
+	-	Given 	user is able to perform search by typing in the search field
+	-	When 	user access results page
+	-	And 	user click on the 'prime' box on left column
+	-	Then 	browser sort/prioritize prime products
+
+C03 'Track package' button hovering animation 
+	-	Given 	user is able to access 'Your Orders' page
+	-	When	user has item with 'shipped'
+	-	And		user place mouse cursor over 'Track package' button
+	-	Then	'Track package' button get dark while cursor is over it
+
+C04 All department drop-box on main Search field
+	-	Given	user is able to access http://www.amazon.com   	 
+	-	When	user hover mouse over icon with down arrow on the left side of search field
+	-	And		icon get darker by ??%
+	-	And		user is able to click on the icon
+	-	Then	icon show drop-bow with all department name in alphabet order
+
+C05 Adding item to Cart at the item description page
+	-	Given	user is able to access description page of desired item
+	-	When	item in color is in stock
+	-	And		user click on 'Add to Cart' icon
+	-	Then	browser show user 'Added to Cart' confirmation page
+
+		
+
+	
+									

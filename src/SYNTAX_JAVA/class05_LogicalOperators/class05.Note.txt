@@ -1,0 +1,79 @@
+
+
+Logical operators
+
+	Assignment operator:	=
+	Arithmetic:				+, -, *, /, %(remainder not percentage)
+	Relational:				>, >=, <, <=, ==, != 
+	
+	Logical:				&&(logical and), ||(logical or), !(Logical Not)
+			
+*	Ex of Logical And &&
+	
+		ex)		true && true	-->	True			[All need to be true to be True]
+				true && false	-->	False
+				false && true	--> False
+				false && false	-->	False
+											
+						
+		ex)	boolean understandJava = true;
+			boolean enjoyJava =	true;
+		
+			if(understandJava && enjoyJava) {
+				System.out.println("This is awesome");
+			}
+		
+		----output----
+		
+			This is awesome	[all conditions Must be True]
+	
+		ex)	int n1 = 100;
+			int n2 = 200;
+			int n3 = 300;
+		
+			if(n1>n2 && n1>n3) {								[false and false]
+				System.out.println(n1 + " is the largest");
+			} else if (n2>n3 && n2>n1) {
+				System.out.println(n2 + " is the largest");
+			} else if (n3>n1 && n3>n2) {
+				System.out.println(n3 + " is the largest");
+			}	
+		
+*	Ex of Logical OR ||
+
+		ex)	true || true	->	True				[at least One need to be true to be True]
+			true || false	->	True
+			false || true	->	True
+			false || false	->	False
+			
+			String day = "saturday";
+			
+			if (day.equals("saturday") || day.equals("saunday")) {		[only One is true]
+				System.out.println("I have Java class at Syntax");
+				}
+			}
+			}
+	
+		----output----
+		
+			I have Java class at Syntax
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		

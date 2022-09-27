@@ -1,0 +1,32 @@
+for loop	- when we know number of repetitions/ iterations in advance
+
+	for (initialization; conditon; 
+	
+while loop and do while -> if we dont know number of repetitions
+
+while vs do while
+
+while checks condition first -> then executes code
+do while executes code -> then check condition
+
+	while(boolean condition) {
+		code to
+		
+	do {
+		code to repeat;
+		} while (boolean condition);
+
+--------------------------------------------------------------------------
+NESTED LOOPS
+
+loop inside another loop
+
+	for (int i = 1; i < 3; i++) {			| outer loop
+		System.out.println("hello");	
+	 for (int j = 1; j <= 3; j++) {			| nested loop
+		System.out.println("Bye");
+		}
+	}	
+		
+		
+

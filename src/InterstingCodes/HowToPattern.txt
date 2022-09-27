@@ -1,0 +1,36 @@
+https://www.javatpoint.com/how-to-print-pattern-in-java
+
+-How to Print Pattern in Java
+
+Java pattern program enhances the coding skill, logic, and looping concepts. 
+It is mostly asked in Java interview to check the logic and thinking of the programmer. 
+We can print a Java pattern program in different designs. To learn the pattern program, 
+we must have a deep knowledge of the Java loop, such as for loop do-while loop. In this section, 
+we will learn how to print a pattern in Java.
+
+We have classified the Java pattern program into three categories:
+
+	-Start Pattern
+	-Number Pattern
+	-Character Pattern
+
+Before moving to the pattern programs, let's see the approach.
+Whenever you design logic for a pattern program, first draw that pattern in the blocks, 
+as we have shown in the following image. The figure presents a clear look of the pattern.
+
+Each pattern program has two or more than two loops. The number of the loop depends on the 
+complexity of pattern or logic. The first for loop works for the row and the second loop works for the column. 
+In the pattern programs, Java for loop is widely used.
+
+  1  2  3  4			Column (j)
+1 *  #  #  #			
+2 *  *  #  #			Rows (i)
+3 *  *  *  #
+4 *  *  *  *
+
+In the above pattern, the row is denoted by i and the column is denoted by j. 
+We see that the first row prints only a star. The second-row prints two stars, and so on. 
+The colored blocks print the spaces.
+
+Let's create the logic for the pattern, give above. In the following code snippet, 
+we are starting row and column value from 0. We can also start it from 1, it's your choice.

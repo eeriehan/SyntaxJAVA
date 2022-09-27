@@ -1,0 +1,40 @@
+	
+	[Java is an Object-Oriented Language]	:	JAVA, c#, PHP, Python etc
+
+
+-	what is an Object?
+		
+		Everything around us is an object for example keyboard, mouse, glass, etc.
+		 Objects can be defined based on how they look and how they behave. 
+		  Objects in computer programming are also very similar. 
+		   They have state (Which helps us define how that object looks like) and behaviors (What that object does)
+		    
+
+-	what is Class?
+
+		-	Class is blue-print/design/template from which we create the objects.
+		-	is a user defined.
+		-	is template for creating different objects which defines its features and behaviors.
+		-	in order to create an object you need a class
+		-	a class contains variables, methods, constructors etc...
+		-	you can have multiple objects for the same class
+		     
+	ex).	    class Class_name {
+		     	field or variable ;
+		     	method like main()
+
+-	Object Oriented Programming:	Its just a way of writing programs.
+
+-	Why we should learn OOP(Object Oriented Programming)?
+		1).	it simplify the development of large programs.
+		2).	it will also help us maintain and modify the existing code!
+		3). it helps write more secure code.
+		4).	it helps us avoid duplicate code.
+
+-	What is the SYNTAX?
+
+-	What is the Method in Java
+	-	A java method is a collection of statements that are grouped together to perform an operation
+	-	Method describes behavior of an object
+	-	Method contains a block of code
+	-	You can say a method is a subprogram that acts on data and often returns a value.

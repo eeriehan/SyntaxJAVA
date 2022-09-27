@@ -1,0 +1,18 @@
+Methods
+
+A Java method is collection of statements that are grouped together to perform an operation.
+For example, When you call the System.out.println() method, the system executes several
+statements in order to display a message on the console.
+
+    To Learn:
+    -How to create your methods with or without return values
+    -Invoke a method with or without parameters, and
+    -Apply method abstraction in the program design.
+
+Method definition consists of a method header and a method body. The same is shown below:
+
+    modifier returnType nameofMethod (Parameter List) {
+    // method body
+    }
+
+    ** void <- When not returning anything.
