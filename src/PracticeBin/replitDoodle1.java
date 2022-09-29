@@ -14,8 +14,8 @@ public class replitDoodle1 {
            // System.out.println();
         }
 
-        for (int j = arr.length-1; j >= 0; j--) {
-            System.out.println(arr[j]);
+        for (int j =0; j <= arr.length-1; j++) {
+            System.out.println(arr[j]*10);
         }
     }
 }

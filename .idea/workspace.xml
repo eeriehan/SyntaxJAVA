@@ -2,45 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e765293-2752-4d9d-bd9a-018f83b5b298" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SyntaxJAVA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeBin/LearningMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeBin/replitDoodle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeBin/replitDoodle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class11_Object/ExamplePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class11_Object/ExamplePhoneTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class11_Object/ObjectNote_2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringDemo01_Length.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringDemo02_ToUpperLower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringDemo03_PlusEmptyBlank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringDemo04_NavigatingString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringDemo05_Equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringDemo06_charAt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringDemo07_charArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringDemo08_IndexOf_SubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringDemo09_Replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringDemo10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringDemo11_callingMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringDemo12_Split.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringDemo13_StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringNote01" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringTask01_LogIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringTask02_FindMiddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringTask03_ReversePrinting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringTask04_BabyName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringTask05_removeSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringTask06_CountLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringTask07_howManySentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringTask08_ReverseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringTask09_PalindromeNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_STRING/StringTask10_withOutTempVal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class12_UTILITYS/StringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class13/MethodsNote01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeBin/replitDoodle1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeBin/replitDoodle1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class10_Arrays/Hw03SumOfInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class10_Arrays/Hw03SumOfInt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,35 +58,35 @@
       <command value="fontsize" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.replitDoodle1">
-    <configuration name="ArrayDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class10_Arrays.ArrayDemo1" />
-      <module name="SyntaxJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class10_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayDemo2_FixedSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.class10_Arrays.ArrayDemo2_FixedSize" />
-      <module name="SyntaxJAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.class10_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Hw03SumOfInt">
     <configuration name="ArrayDemo3_ShorterArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.class10_Arrays.ArrayDemo3_ShorterArray" />
+      <module name="SyntaxJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class10_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hw03SumOfInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class10_Arrays.Hw03SumOfInt" />
+      <module name="SyntaxJAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class10_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hw04LargestInterger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class10_Arrays.Hw04LargestInterger" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
@@ -162,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hw03SumOfInt" />
+        <item itemvalue="Application.Hw04LargestInterger" />
         <item itemvalue="Application.replitDoodle1" />
         <item itemvalue="Application.replitDoodle" />
         <item itemvalue="Application.ArrayDemo3_ShorterArray" />
-        <item itemvalue="Application.ArrayDemo2_FixedSize" />
-        <item itemvalue="Application.ArrayDemo1" />
       </list>
     </recent_temporary>
   </component>
