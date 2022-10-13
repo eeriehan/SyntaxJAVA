@@ -8,7 +8,6 @@
 		 Objects can be defined based on how they look and how they behave. 
 		  Objects in computer programming are also very similar. 
 		   They have state (Which helps us define how that object looks like) and behaviors (What that object does)
-		    
 
 -	what is Class?
 

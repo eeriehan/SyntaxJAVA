@@ -1,0 +1,60 @@
+"this" keyword:
+    "this" is keyword like "class", "void". it is used in many places. For example
+    if we have same name instance and a local variable we can use "this" to explicitly
+    refer to instance variable. We can use "this()" to call a constructor inside another
+    constructor.
+Why should we learn about "this" keyword:
+    1). It allows us to have same name local and instance variables.
+    2). If we have same code in two constructors we can reuse that code from one constructor
+        inside another constructor by writing "this()".
+ -----------------------------------------------------------------------------------------
+Inheritance:
+    Inheritance is a mechanism in Java through which we can use the fields/methods of one
+    class inside another class.
+    There are 4 types of inheritance.
+    1). Single inheritance:
+            In single inheritance we have only one parent and one child class.
+            Employee -> Person
+    2). Multi-level Inheritance:
+            In Multilevel Inheritance we have inheritance in multiple levels like we have
+            grandfather -> father -> son -> grandson
+    3). Hierarchical Inheritance:
+            One parent class and multiple direct child classes.
+    4). Multiple Inheritance:
+            One child class can directly inherit from multiple parent classes. it is not
+            supported in Java.
+Why should we learn inheritance?:
+    It allows to reduce the duplicate code.
+What is the syntax?:
+    We can use this feature by writing extends keyword when declaring a class
+
+---------------------------------------------------------------------------------------------
+What is inheritance:
+    Its a mechanism through which a class can inherit the properties and methods of another class.
+Why we should learn inheritance:
+    it helps us avoid code duplication
+    it helps us save space.
+    it helps us improve the execution speed.
+What is the syntax?
+    we use the extends keyworkd and the name of the class from which we want to inherit the fields
+    and methods while declaring the class.
+Type of inheritance:
+    There can be 4 types of inheritance but java only supports 3 of them with classes.
+    1.  single
+    2.  multilevel
+    3.  hierarchical
+    4.  Multiple(Not supported by classes in JAVA)
+Single inheritance:
+    When we have only one parent and one child classes in inheritance it is called single inheritance.
+    Not widely used.
+MultiLevel Inheritance:
+    One top level and one base class and many intermediate classes. For Ex) A<B<C<D.
+Hierarchical inheritance:
+    When we have one parent class and multiple child classes it's called Hierarchical inheritance.
+Multiple Inheritance:
+    One child and multiple parent classes. it is not supported by classes in Java. it creates the Diamond.
+
+Super keyword:
+    We use the super keyword to explicitly call the variable from the parent class. When we have same name
+    instance variable in child class and parent class.
+    We can also use the super keyword to call the constructor of the parent class

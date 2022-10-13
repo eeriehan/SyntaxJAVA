@@ -1,4 +1,4 @@
-package com.syntax.class11_Object;
+package SYNTAX_JAVA.class11_Object;
 
 public class Example03Students {
 

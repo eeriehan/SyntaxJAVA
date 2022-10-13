@@ -15,6 +15,7 @@ public class StringTask06_CountLetters {
         String altStr2 = str2.replaceAll("[^a-zA-Z0-9]", "");
         System.out.println(altStr2);
         System.out.println("Alphanumeric in this String: "+altStr2.length());
+
     }
 }
 /*Create a String that should be combination of letters, numbers and special characters.

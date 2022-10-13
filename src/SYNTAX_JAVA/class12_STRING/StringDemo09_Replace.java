@@ -3,7 +3,7 @@ package SYNTAX_JAVA.class12_STRING;
 public class StringDemo09_Replace {
     public static void main(String[] args) {
 
-        String str = "Batch 14 is good 312131321312!@#!$!$ !@#aASDFAFD";
+        String str = "Batch 14 is good 312131321312!@#!$!$ !@good#aASDFAFD";
         /*
         replace()       method replaces one String with another in a String
         replaceAll()    method takes a pattern and replace all the characters that follow that pattern

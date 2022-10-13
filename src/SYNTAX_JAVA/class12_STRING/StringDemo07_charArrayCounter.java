@@ -1,9 +1,8 @@
 package SYNTAX_JAVA.class12_STRING;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class StringDemo07_charArray {
+public class StringDemo07_charArrayCounter {
     public static void main(String[] args) {
         String str = "I love java programming";
         char[] charArray = str.toCharArray();

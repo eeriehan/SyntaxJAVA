@@ -26,6 +26,18 @@ public class StringTask08_ReverseWords {
                 System.out.print(strArr[j].charAt(k));
             }
         }
+        System.out.println("--------------"); // Asghar demo
+
+        String[] asg = trs.split(" ");
+        StringBuilder st = new StringBuilder();
+        for (int k = 0; k < asg.length; k++) {
+            String word = asg[i];
+            StringBuilder stb = new StringBuilder(word);
+            stb.reverse();
+            asg[i] = stb.toString();
+            st.append(asg[i]).append(" "); // need to figure out. why " " didn't added. in answer.
+        }
+        System.out.println("asg"+ asg);
     }
 }
 /*How would you reverse a String word by word? for example

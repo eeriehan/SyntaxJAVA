@@ -9,7 +9,7 @@ public class StringDemo03_PlusEmptyBlank {
         System.out.println(firstName.concat(lastName)); // does similar to + above
         System.out.println(firstName.concat(" ").concat(lastName));
 
-        String str = "     ";
+        String str ="";
         System.out.println(str.isEmpty()); // ask for boolean. if Empty then True
         System.out.println(str.isBlank()); //
         // isEmpty() returns true if a String is empty. this method will return false even if you have
