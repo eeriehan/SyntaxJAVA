@@ -1,4 +1,4 @@
-package SYNTAX_JAVA.class16_TypesVariable2;
+package SYNTAX_JAVA.class16_AccessModifiers;
 
 public class Task2 {
     /*

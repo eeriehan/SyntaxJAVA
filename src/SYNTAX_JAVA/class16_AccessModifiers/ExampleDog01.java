@@ -1,4 +1,4 @@
-package SYNTAX_JAVA.class16_TypesVariable2;
+package SYNTAX_JAVA.class16_AccessModifiers;
 
 public class ExampleDog01 {
     private String name;
@@ -16,4 +16,5 @@ public class ExampleDog01 {
         }else {
             age=dogAge;
         }
-}}
+}
+}

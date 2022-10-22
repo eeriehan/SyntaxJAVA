@@ -7,7 +7,7 @@ Why we should create multiple methods with same name?
 Hoe do we overload a method?
     1)  by passing different number of parameters.
     2)  by changing the data-type.
-  3) By changing the sequence of parameters
+    3) By changing the sequence of parameters
 
 
 

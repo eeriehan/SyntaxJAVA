@@ -1,4 +1,4 @@
-package SYNTAX_JAVA.class16_TypesVariable2;
+package SYNTAX_JAVA.class16_AccessModifiers;
 import java.util.Scanner;
 
 public class EmpTester {
@@ -12,7 +12,7 @@ public class EmpTester {
         josh.calculatePrintTax();
 
         /*
-        Below we have more constrcutor calls
+        Below we have more constructor calls
          */
         Scanner scanner=new Scanner(System.in);
         StringBuilder sb=new StringBuilder("Str");

@@ -1,12 +1,47 @@
+-------------------------------------------------------------------------------------------
 "this" keyword:
-    "this" is keyword like "class", "void". it is used in many places. For example
-    if we have same name instance and a local variable we can use "this" to explicitly
+    "this" is a keyword like "class" or "void". it is used in many places. For example
+    if we have instance and a local variable that shares same name, we can use "this" keyword to explicitly
     refer to instance variable. We can use "this()" to call a constructor inside another
     constructor.
 Why should we learn about "this" keyword:
     1). It allows us to have same name local and instance variables.
     2). If we have same code in two constructors we can reuse that code from one constructor
-        inside another constructor by writing "this()".
+        inside another constructor by writing "this()". to save memory and time in case code gets bigger.
+ -----------------------------------------------------------------------------------------
+-Super keyword:
+    We use the super keyword to explicitly call the variable from the immediate parent class.
+    When we have same name instance variable in child class and parent class.
+    We can also use the super keyword to call the constructor of the parent class
+
+    ● super can be used to refer immediate parent class instance variable.
+        -super is used to call super class variables and methods by the subclass
+        object when they are overridden by subclass.
+
+    ● super can be used to invoke immediate parent class method.
+
+    ● super() can be used to invoke immediate parent class constructor.
+        -super() is used to call super class constructor from subclass constructor.
+
+    ● super is used to refer immediate parent class instance variable.
+
+    We can use super keyword to access the data member or field of parent class if parent class
+    and child class have members with same name.
+
+    super can be used to invoke parent class method
+
+    The super keyword also used to access the method of parent class when child class has overridden that method.
+    --------------------------------------------------------------------------------------
+-this vs super
+    -this is used to refer current-class instance as well as static members
+
+    -super is used to refer super-class’s instance as well as static members.
+
+    -NOTE: We can use this as well as super anywhere except static area.
+            super() need to be on the top of its constructor to compile
+ -----------------------------------------------------------------------------------------
+
+
  -----------------------------------------------------------------------------------------
 Inheritance:
     Inheritance is a mechanism in Java through which we can use the fields/methods of one
@@ -53,8 +88,4 @@ Hierarchical inheritance:
     When we have one parent class and multiple child classes it's called Hierarchical inheritance.
 Multiple Inheritance:
     One child and multiple parent classes. it is not supported by classes in Java. it creates the Diamond.
-
-Super keyword:
-    We use the super keyword to explicitly call the variable from the parent class. When we have same name
-    instance variable in child class and parent class.
-    We can also use the super keyword to call the constructor of the parent class
+-----------------------------------------------------------------------------------------------------------------
