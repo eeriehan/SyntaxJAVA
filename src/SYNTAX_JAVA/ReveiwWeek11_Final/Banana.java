@@ -1,4 +1,4 @@
-package SYNTAX_JAVA.ReveiwWeek11;
+package SYNTAX_JAVA.ReveiwWeek11_Final;
 
 public class Banana extends Fruit{
 

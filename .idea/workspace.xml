@@ -1,77 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e765293-2752-4d9d-bd9a-018f83b5b298" name="Changes" comment="3rd commit">
-      <change afterPath="$PROJECT_DIR$/src/PracticeBin/replitdoodle141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeBin/replitdoodle150.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeBin/replitdoodle162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeBin/replitdoodle173.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project02/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project02/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project02/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project02/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek10_ThisOverloading2/TeacherTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek10_ThisOverloading2/USA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek11/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek11/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek11/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek8_VeriMethAccm/Shelter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek9_ThisOverloading1/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek9_ThisOverloading1/Peru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek9_ThisOverloading1/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek9_ThisOverloading1/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class19_MethodOverloading/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class19_MethodOverloading/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class19_MethodOverloading/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class19_MethodOverloading/BrowserTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class19_MethodOverloading/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class19_MethodOverloading/EmployeeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class19_MethodOverloading/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class20_PolymophFinal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class20_PolymophFinal/AnimalTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class20_PolymophFinal/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class20_PolymophFinal/CastingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class20_PolymophFinal/CreditCardTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class20_PolymophFinal/FinalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class20_PolymophFinal/Note" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class20_PolymophFinal/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class20_PolymophFinal/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class20_PolymophFinal/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class20_PolymophFinal/WebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class20_PolymophFinal/WebDriverTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class21_InterfaceAbstract/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class21_InterfaceAbstract/DataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class21_InterfaceAbstract/DataBaseTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class21_InterfaceAbstract/HwTask01_File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class21_InterfaceAbstract/HwTask02_WebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class21_InterfaceAbstract/IDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class21_InterfaceAbstract/InterfaceTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class21_InterfaceAbstract/Note" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class21_InterfaceAbstract/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class21_InterfaceAbstract/StudentTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class21_InterfaceAbstract/Task1.java" afterDir="false" />
+    <list default="true" id="6e765293-2752-4d9d-bd9a-018f83b5b298" name="Changes" comment="4th commit - w/group project2">
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/replitDoodle175.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/replitDoodle176.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/replitDoodle177.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek12_Interface/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek12_Interface/Juice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek12_Interface/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class22_GetterSetterArrayList/ArrayListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class22_GetterSetterArrayList/ArrayListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class22_GetterSetterArrayList/ArrayListDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class22_GetterSetterArrayList/ArrayListDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class22_GetterSetterArrayList/ArrayListDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class22_GetterSetterArrayList/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class22_GetterSetterArrayList/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class22_GetterSetterArrayList/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class22_GetterSetterArrayList/WhyCollectionsFramework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/ArrayListMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/ContainsAllDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/GenericCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/IteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/IteratorDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/IteratorDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/IteratorDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/IteratorDemo4WithLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/Note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/RemoveAllDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/WhyWeNeedIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/WrapperClasses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01Task01/CodingTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01/CodingTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01Task01/CodingTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01/CodingTask2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01Task01/CodingTask3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01/CodingTask3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01Task01/CodingTask4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01/CodingTask4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01Task01/CodingTask5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01/CodingTask5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01Task01/CodingTask6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01/CodingTask6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01Task01/CodingTask7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01/CodingTask7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01Task01/CodingTask8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01/CodingTask8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01Task01/CodingTask9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/G_Project01/CodingTask9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_TypesVariable2/EmpTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_AccessModifiers/EmpTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_TypesVariable2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_AccessModifiers/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_TypesVariable2/ExampleDog01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_AccessModifiers/ExampleDog01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_TypesVariable2/ExampleDog02tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_AccessModifiers/ExampleDog02tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_TypesVariable2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_AccessModifiers/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_TypesVariable2/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_AccessModifiers/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_TypesVariable2/Task1_Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_AccessModifiers/Task1_Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_TypesVariable2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_AccessModifiers/Task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_TypesVariable2/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_AccessModifiers/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_TypesVariable2/accessModifiers" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class16_AccessModifiers/accessModifiers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class18_This/This" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class18_This/This" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class19_MethodOverloading/MethodOverloadingNotes" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class19_MethodOverloading/MethodOverloadingNotes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeBin/replitDoodle1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeBin/replitDoodle1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek11/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek11_Final/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek11/Banana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek11_Final/Banana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek11/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek11_Final/Fruit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +73,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/hanjo/IdeaProjects/SyntaxJAVA/src/SYNTAX_JAVA/class21_InterfaceAbstract",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -125,11 +89,11 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SYNTAX_JAVA.class22_GetterSetterArrayList" />
       <recent name="PracticeBin" />
       <recent name="SYNTAX_JAVA.class16_TypesVariable2" />
       <recent name="SYNTAX_JAVA.class15_TypesVariable" />
       <recent name="SYNTAX_JAVA.class11_Object" />
-      <recent name="SYNTAX_JAVA.class14_Methods02" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -137,13 +101,13 @@
       <command value="fontsize" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task4 (3)">
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.G_Project02.Task3" />
+  <component name="RunManager" selected="Application.replitDoodle1">
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeBin.Inheritance" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SYNTAX_JAVA.G_Project02.*" />
+          <option name="PATTERN" value="PracticeBin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.G_Project02.Task4" />
+    <configuration name="replitDoodle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeBin.replitDoodle1" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SYNTAX_JAVA.G_Project02.*" />
+          <option name="PATTERN" value="PracticeBin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.G_Project02.Task4" />
+    <configuration name="replitDoodle175" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeBin.replitDoodle175" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SYNTAX_JAVA.G_Project02.*" />
+          <option name="PATTERN" value="PracticeBin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.G_Project02.Task4" />
+    <configuration name="replitDoodle176" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeBin.replitDoodle176" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SYNTAX_JAVA.G_Project02.*" />
+          <option name="PATTERN" value="PracticeBin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.G_Project02.Task4" />
+    <configuration name="replitDoodle177" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeBin.replitDoodle177" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SYNTAX_JAVA.G_Project02.*" />
+          <option name="PATTERN" value="PracticeBin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task4 (3)" />
-        <item itemvalue="Application.Task4 (2)" />
-        <item itemvalue="Application.Task4 (1)" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.replitDoodle1" />
+        <item itemvalue="Application.Inheritance" />
+        <item itemvalue="Application.replitDoodle177" />
+        <item itemvalue="Application.replitDoodle176" />
+        <item itemvalue="Application.replitDoodle175" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665629773793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="4th commit - w/group project2">
+      <created>1666463524466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666463524466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +216,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3rd commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd commit" />
+    <MESSAGE value="4th commit - w/group project2" />
+    <option name="LAST_COMMIT_MESSAGE" value="4th commit - w/group project2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
