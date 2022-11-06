@@ -23,7 +23,7 @@ class Teacher {
         this.yearsOfExperience = yearsOfExperience;
     }
 
-    // Break till 8:55
+
     void teach() {
         System.out.println(name + " is teaching");
     }
