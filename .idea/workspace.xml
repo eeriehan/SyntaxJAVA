@@ -1,19 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e765293-2752-4d9d-bd9a-018f83b5b298" name="Changes" comment="5th commit - Clone testing">
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class24_CollectionFramework/ArrayListVsLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class24_CollectionFramework/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class24_CollectionFramework/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class24_CollectionFramework/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class24_CollectionFramework/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class24_CollectionFramework/WrapperDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class24_CollectionFramework/hw01_insurance.java" afterDir="false" />
+    <list default="true" id="6e765293-2752-4d9d-bd9a-018f83b5b298" name="Changes" comment="6th commit">
+      <change afterPath="$PROJECT_DIR$/Data/TestAsgar.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/From quiz note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/R085.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/R119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/R178.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/R180.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/R185.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/qqq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek13_CollectionsFramework/CollectionsFramework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek13_CollectionsFramework/IterateThruHashMap5ways.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek13_CollectionsFramework/ListDemoWithCustomClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek13_CollectionsFramework/ListsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek13_CollectionsFramework/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek13_CollectionsFramework/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek13_CollectionsFramework/SetDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek13_CollectionsFramework/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek14_HashTable/FIleDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek14_HashTable/InterviewQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek14_HashTable/MapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek14_HashTable/Note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek14_HashTable/VarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek15_FileException/AgeNotAllowed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek15_FileException/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek15_FileException/ExceptionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek15_FileException/ExceptionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/ReveiwWeek15_FileException/Exceptions Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class24_CollectionFramework/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class24_CollectionFramework/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class24_CollectionFramework/hw01_Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class24_CollectionFramework/hw01_insuranceTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class24_CollectionFramework/hw02_Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class25_Exel_Maps/MapDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class25_Exel_Maps/MapDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class25_Exel_Maps/MapDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class25_Exel_Maps/MapDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class25_Exel_Maps/MapDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class25_Exel_Maps/MapDemo5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class25_Exel_Maps/MapDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class26_HashMap/MapDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class26_HashMap/MapDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class26_HashMap/MapDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class26_HashMap/MapDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class26_HashMap/MapsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class26_HashMap/MapsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class26_HashMap/MapsInJava" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class27_ExelFiles/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class27_ExelFiles/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class27_ExelFiles/ExcelDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class27_ExelFiles/ExcelDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class27_ExelFiles/FileDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class27_ExelFiles/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class28_FileHandling/FileDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class28_FileHandling/FileHandlingNote" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class28_FileHandling/FilesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class28_FileHandling/MethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class28_FileHandling/ReadingExcelFileDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class28_FileHandling/ReadingExcelFileDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class28_FileHandling/Review1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class28_FileHandling/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class29_ExceptionTryCatch/ExceptionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class29_ExceptionTryCatch/ExceptionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class29_ExceptionTryCatch/ExceptionDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class29_ExceptionTryCatch/FinallyBlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class29_ExceptionTryCatch/Notes-Exception" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class29_ExceptionTryCatch/Repl209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class29_ExceptionTryCatch/ThrowVsThrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class29_ExceptionTryCatch/TryCatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class29_ExceptionTryCatch/TypesOfExcep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/StringUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SyntaxJAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SyntaxJAVA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class18_This/HwTask03_Asghar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class18_This/HwTask03_Asghar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class18_This/HwTask03_AsgharTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class18_This/HwTask03_AsgharTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/Note" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/Note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class22_GetterSetterArrayList/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class22_GetterSetterArrayList/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class24_CollectionFramework/hw01_insurance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class25_Exel/ExelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class27_ExelFiles/ExelTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,24 +108,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/hanjo/IdeaProjects/SyntaxJAVA/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "project.propCompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hanjo/IdeaProjects/SyntaxJAVA/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hanjo\IdeaProjects\SyntaxJAVA\src\SYNTAX_JAVA\class21_InterfaceAbstract" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hanjo\IdeaProjects\SyntaxJAVA\Data" />
       <recent name="C:\Users\hanjo\IdeaProjects\SyntaxJAVA\src\SYNTAX_JAVA\class11_Object" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -70,11 +135,11 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SYNTAX_JAVA.ReveiwWeek15_FileException" />
+      <recent name="SYNTAX_JAVA.class25_Exel" />
       <recent name="SYNTAX_JAVA.class22_GetterSetterArrayList" />
       <recent name="PracticeBin" />
       <recent name="SYNTAX_JAVA.class16_TypesVariable2" />
-      <recent name="SYNTAX_JAVA.class15_TypesVariable" />
-      <recent name="SYNTAX_JAVA.class11_Object" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -82,13 +147,13 @@
       <command value="fontsize" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExelTest">
-    <configuration name="ArrayListVsLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.class24_CollectionFramework.ArrayListVsLinkedList" />
+  <component name="RunManager" selected="Application.ExceptionDemo1">
+    <configuration name="ExceptionDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.ReveiwWeek15_FileException.ExceptionDemo1" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SYNTAX_JAVA.class24_CollectionFramework.*" />
+          <option name="PATTERN" value="SYNTAX_JAVA.ReveiwWeek15_FileException.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.class24_CollectionFramework.Car" />
+    <configuration name="NumberPattern08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterstingCodes.NumberPattern08" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SYNTAX_JAVA.class24_CollectionFramework.*" />
+          <option name="PATTERN" value="InterstingCodes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.class25_Exel.ExelTest" />
+    <configuration name="StarPattern01_Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterstingCodes.StarPattern01_Pyramid" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SYNTAX_JAVA.class25_Exel.*" />
+          <option name="PATTERN" value="InterstingCodes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.class24_CollectionFramework.Task3" />
+    <configuration name="StarPattern03_AlphabetA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterstingCodes.StarPattern03_AlphabetA" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SYNTAX_JAVA.class24_CollectionFramework.*" />
+          <option name="PATTERN" value="InterstingCodes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hw01_insurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.class24_CollectionFramework.hw01_insurance" />
+    <configuration name="StarPattern04_HollowTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterstingCodes.StarPattern04_HollowTriangle" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SYNTAX_JAVA.class24_CollectionFramework.*" />
+          <option name="PATTERN" value="InterstingCodes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExelTest" />
-        <item itemvalue="Application.Car" />
-        <item itemvalue="Application.hw01_insurance" />
-        <item itemvalue="Application.ArrayListVsLinkedList" />
-        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.ExceptionDemo1" />
+        <item itemvalue="Application.StarPattern04_HollowTriangle" />
+        <item itemvalue="Application.NumberPattern08" />
+        <item itemvalue="Application.StarPattern03_AlphabetA" />
+        <item itemvalue="Application.StarPattern01_Pyramid" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667418668451</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="6th commit">
+      <created>1667721978939</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667721978939</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,7 +278,8 @@
     <MESSAGE value="3rd commit" />
     <MESSAGE value="4th commit - w/group project2" />
     <MESSAGE value="5th commit - Clone testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th commit - Clone testing" />
+    <MESSAGE value="6th commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="6th commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -214,6 +287,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>

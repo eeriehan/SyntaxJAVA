@@ -11,7 +11,7 @@ public class Dog {
         setBreed(breed);
         setAge(age);
         setWeight(weight);
-    }
+    }//build constructor. its best way to initialize fields
 
     void setName(String name) {
         if (name.length() > 30) {

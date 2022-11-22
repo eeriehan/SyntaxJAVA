@@ -1,0 +1,56 @@
+HashTable:
+    HashTable is previous version of HashMap. Hashtable is thread safe. It uses synchronization to achieve
+    thread safety and because of this it is slow as compared to hashMap.
+
+    -Why QA should not use Hashtable.******
+        As a Tester its very rare that we will be writing multithreaded code and if you don't write multithreaded
+        code but still use HashTable it will make our code slow for no benefit.
+
+    -Difference between HashMap and HashTable:
+        Hashtable is thread-safe while hashMap is Not.
+
+Maps:
+    How can we iterate through a map
+
+--------------------------------Interview Tips-----------------------------------------------
+
++Important concepts for your coding tests:
+                                            -if else conditions
+                                            -loops
+                                            -arrays
+                                            -String class methods
+                                            -ArrayList
+                                            -Maps
+
++Important concepts for verbal interviews:
+                                     -OOPs
+                                     -Frameworks:
+                                             1)  how Classes work for example, how to create a class,
+                                                 how to declare instance variables, how to use them inside methods
+                                             2)  Go through all the concepts of methods
+                                             3)  Types of variables like instance static(you will be using heavily)
+                                             4)  Inheritance
+                                             5)  ArrayList and Maps
+                                     -FileHandling in java:
+                                             Reading, writing and manipulating files.
+
+--------------------------- File Handling -------------------------------------------------
+
++ Why we should learn about file handling?:
+
+  1) We don't store sensitive data inside the code. It might get exposed when we push the code to GitHub/public.
+
+  2) Hardcoding the data or credentials in code is a very bad practice. Because for any reason, If you have
+     to change the credentials/data you will have to change it everywhere which will take a lot of time.
+
+  3) When we have to perform data driven testing we use a lot of data to perform this type of testing
+     it is not feasible to put all of that data in code.
+
++Steps to Read from any file in java:
+
+  1)  First, we need the location(path)
+
+  2)  Use a class to navigate to that location (for example FileInputStream)
+
+  3)  We need a class that can help us read/write data to that special type of file. For example
+      for .properties file we use Properties and for excel we use XSSFWorkbook

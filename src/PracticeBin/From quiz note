@@ -1,0 +1,18 @@
+
+Suppose that you would like to create an instance of a new Map that has an iteration order that is the same as the iteration order of an existing instance of a Map. Which concrete implementation of the Map interface should be used for the new instance?
+
+[A].	TreeMap
+[B].	HashMap
+[C].	LinkedHashMap	@
+[D].	The answer depends on the implementation of the existing instance.
+Answer: Option C
+
+Explanation:
+
+The iteration order of a Collection is the order in which an iterator moves through the elements of the Collection. The iteration order of a LinkedHashMap is determined by the order in which elements are inserted.
+
+When a new LinkedHashMap is created by passing a reference to an existing Collection to the constructor of a LinkedHashMap the Collection.addAll method will ultimately be invoked.
+
+The addAll method uses an iterator to the existing Collection to iterate through the elements of the existing Collection and add each to the instance of the new LinkedHashMap.
+
+Since the iteration order of the LinkedHashMap is determined by the order of insertion, the iteration order of the new LinkedHashMap must be the same as the interation order of the old Collection.

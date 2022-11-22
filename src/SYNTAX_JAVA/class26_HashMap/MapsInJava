@@ -1,0 +1,42 @@
+Maps in Java:
+    Maps are datastructures that allow us to store key value pairs.
+
+Why we should use Maps?
+    Whenever we have to store key value pairs instead of using arrays or 2D arrays or ArrayLists we should use Maps
+    because they provide very good performance and have built-in methods to process the data.
+
+What is the Syntax of Maps?
+    Map<DataTypeOfKey, DataTypeOfValue> anyName = new MapClass<>();
+    for example if we have to store fruit and their prices we will do something like this
+    HashMap<String,Double> fruit = new HashMap<>();
+
+Type Of Maps:
+    1) HashMap  2) LinkedHashMap    3) TreeMap
+
+    -  HashMap:         This is the most widely used type of map reason, it is fastest and occupies less memory.
+                        we should always use Hashmap if there are no requirements for insertion order or sorting.
+
+    -  LinkedHashMap:   LinkedHashMap keeps the insertion order, but it takes a little more memory than
+                        HashMap and is a little slower.
+
+    -  TreeMap:         TreeMap sorts the data in natural order but insertion is very slow.
+                        it takes more memory to keep the data in sorted order.
+
+__________________________________File Handling_______________________________________________________________
+
+FileHandling:
+    Reading writing data to files with the help of Java is called file handling.
+
+Steps to read data from any files on any computer:
+    1)  location of file on our computer.
+    2)  we need to go to that location.
+    3)  we need a software that can read and write data to that file for example we need Microsoft Excel
+        if we want to work with xlsx files.
+
+FileHandling in java:
+    Reading, writing and manipulating files using java code is called fileHandling.
+Why should we learn FileHandling:
+    1)  When we perform data driven testing we need to store data in files.
+    2)  Storing critical data like userNames and passwords inside the code is bad, because when we push the code to
+        github those info will also be pushed with it, to avoid this we use properties files.
+    3)  Sometimes data can be huge in GBs, and it is very bad practice to push GBS to GitHub.

@@ -1,0 +1,65 @@
++Collections framework:
+    is a set of classes and interfaces that help use store and manipulate data.
+
+    +Why we need collections framework?
+        1)Flexibility.
+        2)Ready-made methods.
+        3)Same classes and methods can be used with different datatype
+
+            -some common classes:               -some common interfaces:
+                1)  ArrayList                       1) List <-They allow duplicates values.
+                2)  LinkedList                      2) Set  <-They do Not allow duplicate values.
+                3)  HashSet
+                4)  LinkedHashSet
+                5)  TreeSet
+
+            -List(interface):  ordered Collection (sometimes called a sequence).
+                1)  Lists like ArrayList and LinkedList maintains the 'Insertion(index)' order.
+                2)  They allow duplicates values.
+
+                -Classes that implement List interface: ● ArrayList ● LinkedList ● Vector
+            -Set:
+                1)  They do not allow duplicate values.
+
+--------------------------- LIST -------------------------------------------------------------------------
+
++ArrayList Vs LinkedList:
+    -when most of the time we retrieve the data 'get()' we should use ArrayList as it is
+        very fast to retrieve index based data as underlying datastructures is an array.
+    -When most of the time we manipulate the data(adding, removing, shifting). eg. add(), remove()
+
+        *    Retrieve data   =>  ArrayList    :    index based, fast
+
+             -    |1|2|3|4|5|6|7| (shift when add value)->|8|9|10|
+
+        *    modify data     =>  LinkedList   :
+
+             -    |1[7]|    |4[3]|   |5[4]|   |6[5]|   |7[10]|   |2[8]|  |3[2]|  (each store value and location)
+
+
+
+
+++++Note: Below topic always appears on coding test for interviews. make sure to study its concept fully
+           -if-else condition       -String class
+           -loops                   -maps
+           -arrays                  -ArrayList <-
+
+----------------------------------------------------- SET ------------------------------------------------------
+
+HashSet VS LinkedHashSet vs TreeSet:
+    -We should always go with the 'HashSet'. because it is fastest of all and requires less memory.
+
+    -If, order is important like for example such as a list for customers. who order first should be processed first.
+        When insertion#(index) is important, we should use 'LinkedHashSet'.
+
+    -If we are working on applications that requires us to SORT data like phonebooks and dictionaries.
+        We should use 'TreeSet'.
+
+
+ --------------------------------------------------------------- MAP --------------------------------------------
+
+note: Map is not a collection but mostly used for collections
+
+Maps:
+    Whenever we have to store [key] and [value] Pairs.
+        For example items and their prices we should use Maps. eg. "xmas cup", 5.99
