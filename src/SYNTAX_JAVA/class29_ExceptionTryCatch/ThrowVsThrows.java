@@ -1,11 +1,7 @@
 package SYNTAX_JAVA.class29_ExceptionTryCatch;
 
-import utils.ExcelReader;
-
-import java.io.IOException;
-
 public class ThrowVsThrows {
-    public static void main(String[] args)  {
+/*    public static void main(String[] args)  {
 
         method2();
 
@@ -18,9 +14,11 @@ public class ThrowVsThrows {
             System.out.println("Send an email to Teymur yuour is unable to locate the files" +
                     "we don't care if it s weekend come to office and fix it.");
         }
-    }
 
-    public static void method2()  {
+
+
+        public static void method2()  {
         method1();
     }
+}*/
 }

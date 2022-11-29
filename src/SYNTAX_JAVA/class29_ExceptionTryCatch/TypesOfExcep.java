@@ -1,9 +1,5 @@
 package SYNTAX_JAVA.class29_ExceptionTryCatch;
 
-import utils.ExcelReader;
-
-import java.io.IOException;
-
 public class TypesOfExcep {
     public static void main(String[] args)  {
      /*   String name=null;
@@ -23,7 +19,7 @@ public class TypesOfExcep {
 */
 
 
-        try {
+/*        try {
             System.out.println(ExcelReader.read("/Users/apple/IdeaProjects/SDETBatch14Java/Data/Test.xlsx"));
         } catch (IOException e) {
             System.out.println("Josh can you please stop deleting my files");
@@ -33,5 +29,5 @@ public class TypesOfExcep {
 
         System.out.println("important line of code");
 
-    }
-}
+    }*/
+}}
