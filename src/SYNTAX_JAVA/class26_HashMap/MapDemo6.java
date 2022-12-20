@@ -13,14 +13,14 @@ public class MapDemo6 {
 
         var iterator=items.entrySet().iterator();
 
-        while (iterator.hasNext()){
+        /*while (iterator.hasNext()){
             var item=iterator.next();
             var key=item.getKey();
             var value=item.getValue();
             if(key.contains("e")&& value>10){
                 iterator.remove();
             }
-        }
+        }*/
         items.entrySet().removeIf(entry -> entry.getKey().contains("e") && entry.getValue() > 10);
         System.out.println(items);
 

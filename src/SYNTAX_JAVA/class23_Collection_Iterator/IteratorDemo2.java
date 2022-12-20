@@ -1,8 +1,9 @@
-package SYNTAX_JAVA.class23_CollectionFramework;
+package SYNTAX_JAVA.class23_Collection_Iterator;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
-public class WhyWeNeedIterator {
+public class IteratorDemo2 {
     public static void main(String[] args) {
         ArrayList<String> beautyProducts=new ArrayList<>();
         beautyProducts.add("Blush");
@@ -15,19 +16,15 @@ public class WhyWeNeedIterator {
         beautyProducts.add("shampoo");
         beautyProducts.add("lotion");
         beautyProducts.add("concealer");
-        beautyProducts.add("eyeLinear");
-//11
-        for (int i = 0; i < beautyProducts.size(); i++) {
-            if(beautyProducts.get(i).endsWith("r")){
-                beautyProducts.remove(i);
-            }
+        // beautyProducts.add("eyeLinear");
+
+        Iterator<String> iterator=beautyProducts.iterator();
+        System.out.println(beautyProducts.size());
+        while (iterator.hasNext()){
+            System.out.println(iterator.next());
+            System.out.println(iterator.next());
         }
-       /* for (String item:beautyProducts
-             ) {
-            if(item.endsWith("r")){
-                beautyProducts.remove(item);
-            }
-        }*/
         System.out.println(beautyProducts);
+
     }
 }

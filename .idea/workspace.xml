@@ -2,12 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e765293-2752-4d9d-bd9a-018f83b5b298" name="Changes" comment="7th commit">
-      <change afterPath="$PROJECT_DIR$/src/PracticeBin/InterviewQs/RepeatingCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeBin/InterviewQs/RepeatingCharacterEX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PracticeBin/R216.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/R194.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/R202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/R203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/R204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/R205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/R206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeBin/R207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_Collection_Iterator/HowToIteratorMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class29_ExceptionTryCatch/ThrowVsThrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class29_ExceptionTryCatch/ThrowVsThrows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class29_ExceptionTryCatch/TypesOfExcep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class29_ExceptionTryCatch/TypesOfExcep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/ArrayListMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_Collection_Iterator/ArrayListMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/ContainsAllDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_Collection_Iterator/ContainsAllDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/GenericCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_Collection_Iterator/GenericCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_Collection_Iterator/IteratorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/IteratorDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_Collection_Iterator/IteratorDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/IteratorDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_Collection_Iterator/IteratorDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/IteratorDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_Collection_Iterator/IteratorDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/IteratorDemo4WithLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_Collection_Iterator/IteratorDemo4WithLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/Note" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_Collection_Iterator/Note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/RemoveAllDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_Collection_Iterator/RemoveAllDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_Collection_Iterator/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/WhyWeNeedIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_Collection_Iterator/WhyWeNeedIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_CollectionFramework/WrapperClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class23_Collection_Iterator/WrapperClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SYNTAX_JAVA/class26_HashMap/MapDemo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SYNTAX_JAVA/class26_HashMap/MapDemo6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +94,13 @@
       <command value="fontsize" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.R216">
-    <configuration name="ExceptionDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.ReveiwWeek15_FileException.ExceptionDemo1" />
+  <component name="RunManager" selected="Application.MapDemo6">
+    <configuration name="HowToIteratorMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.class23_Collection_Iterator.HowToIteratorMap" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SYNTAX_JAVA.ReveiwWeek15_FileException.*" />
+          <option name="PATTERN" value="SYNTAX_JAVA.class23_Collection_Iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPattern08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterstingCodes.NumberPattern08" />
+    <configuration name="MapDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.class26_HashMap.MapDemo6" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterstingCodes.*" />
+          <option name="PATTERN" value="SYNTAX_JAVA.class26_HashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,8 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="R216" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeBin.R216" />
+    <configuration name="R203" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeBin.R203" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
@@ -117,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarPattern04_HollowTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterstingCodes.StarPattern04_HollowTriangle" />
+    <configuration name="R206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeBin.R206" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterstingCodes.*" />
+          <option name="PATTERN" value="PracticeBin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowVsThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SYNTAX_JAVA.class29_ExceptionTryCatch.ThrowVsThrows" />
+    <configuration name="R207" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeBin.R207" />
       <module name="SyntaxJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SYNTAX_JAVA.class29_ExceptionTryCatch.*" />
+          <option name="PATTERN" value="PracticeBin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.R216" />
-        <item itemvalue="Application.ThrowVsThrows" />
-        <item itemvalue="Application.ExceptionDemo1" />
-        <item itemvalue="Application.StarPattern04_HollowTriangle" />
-        <item itemvalue="Application.NumberPattern08" />
+        <item itemvalue="Application.MapDemo6" />
+        <item itemvalue="Application.HowToIteratorMap" />
+        <item itemvalue="Application.R207" />
+        <item itemvalue="Application.R206" />
+        <item itemvalue="Application.R203" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669096815266</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="7th commit">
+      <created>1669744134668</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669744134668</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

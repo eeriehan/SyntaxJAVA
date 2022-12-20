@@ -1,4 +1,4 @@
-package SYNTAX_JAVA.class23_CollectionFramework;
+package SYNTAX_JAVA.class23_Collection_Iterator;
 
 import java.util.ArrayList;
 import java.util.Iterator;
